@@ -1,5 +1,5 @@
 - 👋 Hi, I'm **Saketh Yalamanchili**, a final-year B.Tech student passionate about technology.
-- 👀 I'm interested in the world of data science and machine learning.
+- 👀 I'm interested in the world of data science, machine learning, and the Internet of Things.
 - 🌱 Currently learning and working on exciting machine learning projects to enhance my skills.
 - 💻 Proficient in Python and C programming languages.
 - 💡 Eager to collaborate on projects that involve innovative uses of technology and data.
