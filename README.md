@@ -1,6 +1,6 @@
 - 👋 Hi, I'm **Saketh Yalamanchili**, a final-year B.Tech student passionate about technology.
-- 👀 I'm interested in the world of data science, machine learning, and the Internet of Things.
-- 🌱 Currently learning and working on exciting machine learning and IoT projects to enhance my skills.
+- 👀 I'm interested in the world of AIML and the IoT.
+- 🌱 Currently learning and working on exciting Machine learning and IoT projects to enhance my skills.
 - 💻 Proficient in Python and C programming languages.
 - 💡 Eager to collaborate on projects that involve innovative uses of technology and data.
 - 📫 Reach me at saketh.engineer@gmail.com.
