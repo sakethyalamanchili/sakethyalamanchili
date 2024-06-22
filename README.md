@@ -13,7 +13,14 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  I'm a recent graduate with a B.Tech degree in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I'm a Software Developer Intern at Levicent, specializing in Angular for front-end development. I have a deep passion for Artificial Intelligence & Machine Learning (AIML), and the Internet of Things (IoT), continuously enhancing my skills through practical projects. With a keen interest in technology convergence, I possess a solid foundation in HTML/CSS, TypeScript, JavaScript, and Python — essential for developing robust Angular applications and AI/ML models.
+  I'm a recent B.Tech graduate in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I am honing my skills as a Software Developer Intern at Levicent, focusing on Angular for front-end development. I am deeply passionate about Artificial Intelligence & Machine Learning (AI/ML) and the Internet of Things (IoT), constantly advancing my expertise through hands-on projects. With a strong interest in the convergence of these technologies, I have a robust foundation in HTML/CSS, TypeScript, JavaScript, and Python, which are essential for developing dynamic Angular applications and AI/ML models.
+</p>
+
+<p align="center" style="font-size: 18px; color: #333; font-style: italic;"><em>
+  Uncover the melody behind my motivation. 
+  <a href="https://www.youtube.com/watch?v=jGUASAxXwg4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007bff; font-weight: bold;">
+    &#x1f3b6; Listen Here
+  </a></em>
 </p>
 
 ---
@@ -70,13 +77,12 @@
 ---
 
 <h2 align="center">💬 Let's Collaborate</h2>
-<p align="center">I'm always excited to connect with like-minded individuals passionate about technology and innovation. Feel free to reach out, and let's build something amazing together!</p>
+<p align="center">I’m always eager to connect with like-minded individuals who share a passion for technology and innovation. Whether you're working on an exciting project, looking for a partner to brainstorm ideas with, or just want to chat about the latest tech trends, feel free to reach out. Let's collaborate and create something amazing together!</p>
 
 ---
 
 <h2 align="center">💬 Quote</h2>
-<p align="center"><em>"Behind every great developer is a trail of epic commits."</em></p>
-
+<p align="center"><em>"Every great developer's journey is paved with epic commits."</em></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
