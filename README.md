@@ -77,6 +77,7 @@
 <h2 align="center">💬 Quote</h2>
 <p align="center"><em>"Behind every great developer is a trail of epic commits."</em></p>
 
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
