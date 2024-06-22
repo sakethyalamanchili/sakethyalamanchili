@@ -1,4 +1,9 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> Hi there! I'm Saketh Yalamanchili</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+Welcome+to+my+profile.;I'm+Saketh+Yalamanchili+from+Hyderabad,+India.;21+years+old!;Passionate+about+learning+and+innovations;that+enhance+life+on+Earth."
+    alt="Typing SVG">
+  </a>
+</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
@@ -6,16 +11,14 @@
 
 ---
 
-<div align="center">
-
-## 🚀 About Me
-I'm a recent graduate with a B.Tech degree in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I'm a Software Developer Intern at Levicent, specializing in Angular for front-end development.
-
-I have a deep passion for Artificial Intelligence & Machine Learning (AIML), and the Internet of Things (IoT), continuously enhancing my skills through practical projects. With a keen interest in technology convergence, I possess a solid foundation in HTML/CSS, TypeScript, JavaScript, and Python — essential for developing robust Angular applications and AI/ML models.
+<h2 align="center">🚀 About Me</h2>
+<p align="center">
+  I'm a recent graduate with a B.Tech degree in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I'm a Software Developer Intern at Levicent, specializing in Angular for front-end development. I have a deep passion for Artificial Intelligence & Machine Learning (AIML), and the Internet of Things (IoT), continuously enhancing my skills through practical projects. With a keen interest in technology convergence, I possess a solid foundation in HTML/CSS, TypeScript, JavaScript, and Python — essential for developing robust Angular applications and AI/ML models.
+</p>
 
 ---
 
-## 🛠 Skills
+<h2 align="center">🛠 Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
@@ -37,11 +40,12 @@ I have a deep passion for Artificial Intelligence & Machine Learning (AIML), and
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
+  <img src="https://img.shields.io/badge/LensStudio-9B59B6?style=for-the-badge&logo=lensstudio&logoColor=white" alt="LensStudio">
 </p>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakethyalamanchili&show_icons=true&theme=radical" alt="Saketh's GitHub Stats" style="margin: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethyalamanchili&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
@@ -53,7 +57,7 @@ I have a deep passion for Artificial Intelligence & Machine Learning (AIML), and
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/sakethyalamanchili/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/sakethyalamanchili"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -65,15 +69,14 @@ I have a deep passion for Artificial Intelligence & Machine Learning (AIML), and
 
 ---
 
-## 💬 Let's Collaborate
-I'm always excited to connect with like-minded individuals passionate about technology and innovation. Feel free to reach out, and let's build something amazing together!
+<h2 align="center">💬 Let's Collaborate</h2>
+<p align="center">I'm always excited to connect with like-minded individuals passionate about technology and innovation. Feel free to reach out, and let's build something amazing together!</p>
 
 ---
 
-## 💬 Quote
+<h2 align="center">💬 Quote</h2>
 <p align="center"><em>"Behind every great developer is a trail of epic commits."</em></p>
-</div>
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
