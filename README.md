@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Saketh Yalamanchili</h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> Hi there! I'm Saketh Yalamanchili</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
@@ -43,9 +43,12 @@ I have a deep passion for Artificial Intelligence & Machine Learning (AIML), and
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakethyalamanchili&show_icons=true&theme=radical" alt="Saketh's GitHub Stats" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethyalamanchili&layout=compact&theme=radical" alt="Top Languages" style="margin-right: 10px;">
-  <img src="https://komarev.com/ghpvc/?username=sakethyalamanchili&color=brightgreen" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakethyalamanchili&show_icons=true&theme=radical" alt="Saketh's GitHub Stats" style="margin: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethyalamanchili&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://streak-stats.demolab.com/?user=sakethyalamanchili&count_private=true&theme=blue-green&title_color=00b3ff" alt="Saketh's Current Streak" style="margin: 10px;">
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=sakethyalamanchili&color=brightgreen" alt="Profile Views" style="margin: 10px;">
 </div>
 
 ---
@@ -70,3 +73,7 @@ I'm always excited to connect with like-minded individuals passionate about tech
 ## 💬 Quote
 <p align="center"><em>"Behind every great developer is a trail of epic commits."</em></p>
 </div>
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
