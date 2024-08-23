@@ -13,7 +13,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  I'm a recent B.Tech graduate in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I am honing my skills as a Software Developer Intern at Levicent, focusing on Angular for front-end development. I am deeply passionate about Artificial Intelligence & Machine Learning (AI/ML) and the Internet of Things (IoT), constantly advancing my expertise through hands-on projects. With a strong interest in the convergence of these technologies, I have a robust foundation in HTML/CSS, TypeScript, JavaScript, and Python, which are essential for developing dynamic Angular applications and AI/ML models.
+  I'm a recent B.Tech graduate in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I am honing my skills as a Software Developer Intern at Levicent, focusing on Angular development. I am deeply passionate about Artificial Intelligence & Machine Learning (AI/ML) and the Internet of Things (IoT), constantly advancing my expertise through hands-on projects. With a strong interest in the convergence of these technologies, I have a robust foundation in HTML/CSS, TypeScript, JavaScript, and Python, which are essential for developing dynamic Angular applications and AI/ML models.
 </p>
 
 <p align="center" style="font-size: 18px; color: #333; font-style: italic;"><em>
