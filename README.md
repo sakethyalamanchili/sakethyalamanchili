@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+Welcome+to+my+profile.;I'm+Saketh+Yalamanchili+from+Hyderabad,+India.;21+years+old!;Passionate+about+learning+and+innovations;that+enhance+life+on+Earth."
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello!+👋+Welcome+to+my+GitHub+profile.;I'm+Saketh+Yalamanchili.;Innovator+%7C+Developer+%7C+Tech+Enthusiast.;Exploring+AI/ML+%26+IoT+to+enhance+life+on+Earth.;Let's+collaborate+and+create+something+amazing!"
     alt="Typing SVG">
   </a>
 </h1>
