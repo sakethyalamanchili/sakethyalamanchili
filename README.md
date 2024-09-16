@@ -13,7 +13,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  I'm a recent B.Tech graduate in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I am honing my skills as a Software Developer Intern at Levicent, focusing on Angular development. I am deeply passionate about Artificial Intelligence & Machine Learning (AI/ML) and the Internet of Things (IoT), constantly advancing my expertise through hands-on projects. With a strong interest in the convergence of these technologies, I have a robust foundation in HTML/CSS, TypeScript, JavaScript, and Python, which are essential for developing dynamic Angular applications and AI/ML models.
+  I'm a recent B.Tech graduate in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I am honing my skills as a Software Developer Intern at Levicent. I am deeply passionate about Artificial Intelligence & Machine Learning (AI/ML) and the Internet of Things (IoT), constantly advancing my expertise through hands-on projects. With a strong interest in the convergence of these technologies, I have a robust foundation in HTML/CSS, TypeScript, JavaScript, and Python, which are essential for developing dynamic web applications and AI/ML models.
 </p>
 
 <p align="center" style="font-size: 18px; color: #333; font-style: italic;"><em>
@@ -29,10 +29,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
@@ -49,7 +52,7 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
-  <img src="https://img.shields.io/badge/LensStudio-9B59B6?style=for-the-badge&logo=lensstudio&logoColor=white" alt="LensStudio">
+  <img src="https://img.shields.io/badge/LensStudio-9B59B6?style=for-the-badge&logo=LensStudio&logoColor=white" alt="LensStudio">
 </p>
 
 ---
