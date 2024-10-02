@@ -27,6 +27,7 @@
 
 <h2 align="center">🛠 Skills</h2>
 <p align="center">
+  <!-- Skill badges -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -55,6 +56,7 @@
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin">
   <img src="https://img.shields.io/badge/LensStudio-9B59B6?style=for-the-badge&logo=LensStudio&logoColor=white" alt="LensStudio">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B00?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 </p>
 
 
@@ -77,6 +79,7 @@
   <a href="https://www.linkedin.com/in/sakethyalamanchili/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/Saketh05_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:saketh.engineer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://medium.com/@sakethyalamanchili" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://www.kaggle.com/sakethyalamanchili" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
   <a href="https://www.snapchat.com/add/saketh05" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black" alt="Snapchat"></a>
 </p>
