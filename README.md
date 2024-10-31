@@ -13,14 +13,7 @@
 
 <h2 align="center">🚀 About Me</h2>
 <p align="center">
-  I'm a recent B.Tech graduate in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. Currently, I am honing my skills as a Software Developer Intern at Levicent. I am deeply passionate about Artificial Intelligence & Machine Learning (AI/ML) and the Internet of Things (IoT), constantly advancing my expertise through hands-on projects. With a strong interest in the convergence of these technologies, I have a robust foundation in HTML/CSS, TypeScript, JavaScript, and Python, which are essential for developing dynamic web applications and AI/ML models.
-</p>
-
-<p align="center" style="font-size: 18px; color: #333; font-style: italic;"><em>
-  Uncover the melody behind my motivation. 
-  <a href="https://www.youtube.com/watch?v=jGUASAxXwg4" target="_blank" rel="noopener noreferrer" style="text-decoration: none; color: #007bff; font-weight: bold;">
-    &#x1f3b6; Listen Here
-  </a></em>
+  I'm a recent B.Tech graduate in Electronics and Communication Engineering (ECE) from Jawaharlal Nehru Technological University Hyderabad. I completed an internship as a Software Developer at Levicent, where I gained practical experience in software development. I am deeply passionate about Artificial Intelligence & Machine Learning (AI/ML) and the Internet of Things (IoT), constantly advancing my expertise through hands-on projects. With a strong interest in the convergence of these technologies, I have a robust foundation in HTML/CSS, TypeScript, JavaScript, and Python, which are essential for developing dynamic web applications and AI/ML models.
 </p>
 
 ---
