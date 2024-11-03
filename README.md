@@ -1,8 +1,5 @@
 <div align="center">
   
-  <!-- Animated SVG Header -->
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=2F81F7&center=true&vCenter=true&width=940&lines=Welcome+to+Saketh+Yalamanchili's+GitHub!;Innovator+%7C+Developer+%7C+Tech+Enthusiast;Exploring+AI%2FML+and+IoT+to+Enhance+Life)](https://git.io/typing-svg)
-
   <!-- Profile Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Saketh%20Yalamanchili&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Innovating%20for%20a%20Better%20Tomorrow&descAlignY=52&descSize=20" width="100%">
 
