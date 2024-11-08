@@ -86,7 +86,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sakethyalamanchili/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/Saketh05_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/Saketh05_" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="mailto:saketh.engineer@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://medium.com/@sakethyalamanchili" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://www.kaggle.com/sakethyalamanchili" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
@@ -105,6 +105,16 @@
 
 ---
 
+### 📋 Holopin Badges
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%">
+  <a href="https://holopin.io/@sakethyalamanchili">
+    <img src="https://holopin.me/sakethyalamanchili" alt="Holopin Badge Board">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
 </div>
