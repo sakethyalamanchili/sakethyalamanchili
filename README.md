@@ -13,7 +13,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
 
-- 🎓 Recent B.Tech graduate in Electronics and Communication Engineering from JNTU Hyderabad
+- 🎓 Pursuing masters in Data Science & Analytics at Florida Atlantic University
 - 💼 Former Software Developer Intern at Levicent
 - 🔭 Passionate about AI/ML and IoT technologies
 - 🌱 Constantly learning and exploring new tech frontiers
