@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing masters in Data Science & Analytics at Florida Atlantic University
-- 💼 Former Software Developer Intern at Levicent
+- 💼 Former Software Developer at Levicent
 - 🔭 Passionate about AI/ML and IoT technologies
 - 🌱 Constantly learning and exploring new tech frontiers
 - 💡 Aiming to create innovative solutions at the intersection of AI and IoT
@@ -72,10 +72,6 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakethyalamanchili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethyalamanchili&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakethyalamanchili&theme=tokyonight" alt="sakethyalamanchili" />
 </div>
 
 ---
