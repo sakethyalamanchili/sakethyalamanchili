@@ -27,10 +27,13 @@
 Hey there, I’m **Saketh Yalamanchili** – a developer, a dreamer, and a problem-solver at heart.
 
 🚀 From exploring hidden insights in data to deploying scalable AI solutions, I treat every project like a cinematic experience — driven by vision, detail, and impact.
-🎓 Graduate Research Assistant @ [Florida Atlantic University](https://www.fau.edu/)  
-, pursuing my Master’s in Data Science & Analytics with a focus on AI, Machine Learning, and Deep Learning. I work on launching FAU’s Vertically Integrated Projects (VIP) program, where I guide students into research, build courses, and mentor them in AI & Data Science.
-💼 Experience – Former Software Developer @ Levicent | IoT + AI | Building solutions where research meets real-world impact.
-✨ Creative Edge – AR Lens Creator for Snapchat with 700K+ followers and 180B+ views, blending storytelling and tech to create engaging experiences.
+
+🎓 **Graduate Research Assistant** @ [Florida Atlantic University](https://www.fau.edu/), pursuing my Master’s in Data Science & Analytics with a focus on AI, Machine Learning, and Deep Learning. I work on launching FAU’s Vertically Integrated Projects (VIP) program, where I guide students into research, build courses, and mentor them in AI & Data Science.
+
+💼 **Experience** – Former Software Developer @ Levicent | IoT + AI | Building solutions where research meets real-world impact.
+
+✨ **Creative Edge** – AR Lens Creator for Snapchat with 700K+ followers and 180B+ views, blending storytelling and tech to create engaging experiences.
+
 📌 Passionate about solving problems where tech meets purpose — whether through research, innovation, or creative tools.
 
 > ✨ _"Build systems that think. Visualize insights that speak."_
