@@ -26,11 +26,12 @@
 
 Hey there, I’m **Saketh Yalamanchili** – a developer, a dreamer, and a problem-solver at heart.
 
-🚀 From visualizing hidden insights in data to deploying scalable AI solutions, I treat every project like a cinematic experience — rich in vision, detail, and impact.
-
-🎓 MS in Data Science & Analytics @ [Florida Atlantic University](https://www.fau.edu/)  
-💼 Former Software Developer at Levicent | AI + IoT | Snap Lens Creator  
-📌 Passionate about solving problems where tech meets purpose
+🚀 From exploring hidden insights in data to deploying scalable AI solutions, I treat every project like a cinematic experience — driven by vision, detail, and impact.
+🎓 Graduate Research Assistant @ [Florida Atlantic University](https://www.fau.edu/)  
+, pursuing my Master’s in Data Science & Analytics with a focus on AI, Machine Learning, and Deep Learning. I work on launching FAU’s Vertically Integrated Projects (VIP) program, where I guide students into research, build courses, and mentor them in AI & Data Science.
+💼 Experience – Former Software Developer @ Levicent | IoT + AI | Building solutions where research meets real-world impact.
+✨ Creative Edge – AR Lens Creator for Snapchat with 700K+ followers and 180B+ views, blending storytelling and tech to create engaging experiences.
+📌 Passionate about solving problems where tech meets purpose — whether through research, innovation, or creative tools.
 
 > ✨ _"Build systems that think. Visualize insights that speak."_
 
@@ -38,10 +39,11 @@ Hey there, I’m **Saketh Yalamanchili** – a developer, a dreamer, and a probl
 
 ### 🚀 What Drives Me
 
-- 🤖 AI/ML Solutions that adapt and grow
-- 📈 Dashboards & Analytics that bring clarity
-- 🧠 Research that fuels intelligent automation
-- 🌍 Community-driven tech and open-source tools
+- 🤖 Building intelligent systems with AI/ML
+- 📊 Turning data into actionable insights with analytics & visualization
+- 🧠 Research that enables automation & smarter decision-making
+- 🌍 Open-source contributions & community-driven tech
+- 🎨 Blending creativity with engineering through AR & immersive tech
 
 ---
 
