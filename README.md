@@ -2,7 +2,7 @@
 
 **Data Scientist** | **Researcher** | **Product Engineer**
 <br/>
-[LinkedIn](YOUR_LINKEDIN_URL) • [Portfolio](YOUR_PORTFOLIO_URL) • [Email](mailto:YOUR_EMAIL) • [Medium](https://medium.com/@sakethyalamanchili)
+[LinkedIn](https://www.linkedin.com/in/sakethyalamanchili/) • [Portfolio](https://sakethyalamanchili.vercel.app/) • [Email](mailto:saketh.engineer@gmail.com) • [Medium](https://medium.com/@sakethyalamanchili)
 
 <br/>
 
@@ -41,5 +41,5 @@ I am a **Master’s Candidate in Data Science** and **Graduate Research Assistan
 
 ---
 <div align="left">
-  <a href="YOUR_PORTFOLIO_URL"><b>View Full Portfolio →</b></a>
+  <a href="https://sakethyalamanchili.vercel.app/"><b>View Full Portfolio →</b></a>
 </div>
