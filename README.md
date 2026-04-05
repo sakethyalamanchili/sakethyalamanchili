@@ -16,6 +16,7 @@ I am a **Master’s Candidate in Data Science** and **Graduate Research Assistan
 
 | Project | Role | Description |
 | :--- | :--- | :--- |
+| **MOSAIC** | *ML Engineer* | Cardiovascular risk prediction platform on 551K patients (NIH All of Us). Encodes missing tests as signal — reduced Black–White AUC gap by 74%. XGBoost + 4-agent Gemini pipeline + Next.js dashboard. |
 | **VIP Research Track** | *Research Assistant* | Leading scalable education frameworks and mentoring undergraduate research in AI/Data Science at FAU. |
 | **CareGuide** | *AI Engineer* | Autonomous healthcare agent using RAG & LLMs. Developed for the FAU Agentic AI Hackathon. |
 | **SnapAR Portfolio** | *Product Engineer* | Augmented Reality experiences with **180 Billion+ views**. Winner of the Lensathon (Lens Fest Extended). |
