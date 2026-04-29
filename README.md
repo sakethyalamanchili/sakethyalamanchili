@@ -9,7 +9,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sakethyalamanchili.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethyalamanchili/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sakethyalamanchili)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saketh.engineer@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakethyalamanchili@outlook.com)
 
 *"Build systems that think, visualize insights that speak."*
 
@@ -93,7 +93,7 @@ I write about AI systems, ML research, and lessons from building at scale on [Me
 
 I'm always open to research collaborations, AI/ML projects, and conversations about health equity in machine learning.
 
-📬 [saketh.engineer@gmail.com](mailto:saketh.engineer@gmail.com) &nbsp;|&nbsp; 🌐 [sakethyalamanchili.vercel.app](https://sakethyalamanchili.vercel.app/)
+📬 [sakethyalamanchili@outlook.com](mailto:sakethyalamanchili@outlook.com) &nbsp;|&nbsp; 🌐 [sakethyalamanchili.vercel.app](https://sakethyalamanchili.vercel.app/)
 
 ---
 
