@@ -2,101 +2,41 @@
 
 # Saketh Yalamanchili
 
-### Building AI that closes health equity gaps
-
-**MS Data Science · Graduate Research Assistant · Florida Atlantic University**
+**AI/ML Engineer · MS Data Science, Florida Atlantic University (GPA 4.0)**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sakethyalamanchili.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakethyalamanchili/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@sakethyalamanchili)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sakethyalamanchili@outlook.com)
 
-*"Build systems that think, visualize insights that speak."*
-
 </div>
 
----
+I build AI systems that ship. Currently building biomedical NLP pipelines for a genomics platform at Sivotec Inc. and doing applied AI research at FAU.
 
-## About Me
+My work spans clinical ML, agentic AI, and biomedical NLP. Before that, I spent two years building Snapchat AR lenses. 300+ lenses, 219B+ views. That taught me more about shipping fast than anything else.
 
-I'm a **Data Scientist and ML Researcher** bridging the gap between academic rigor and real-world impact — from fairness-aware cardiovascular risk models trained on **551K+ patients** to augmented reality experiences with **180 billion+ views**.
+Open to full-time AI/ML Engineering and Data Science roles starting early 2027.
 
-My focus: **Agentic AI**, **Reinforcement Learning**, and **Healthcare ML** — building systems that are not just accurate, but equitable.
+## Projects
 
-- **MS in Data Science** — Florida Atlantic University
-- **Graduate Research Assistant** — VIP Research Track @ FAU
-- **Lensathon Winner** — Lens Fest Extended (Snap Inc.)
-- Boca Raton, Florida
+| Project | Description | Stack |
+|---|---|---|
+| [MOSAIC](https://github.com/sakethyalamanchili) | Fairness-aware CVD risk prediction on 551K+ NIH patients. AUROC 0.93, 74% reduction in Black-White AUC gap. FastAPI clinical decision support with SHAP explainability and a 4-agent Gemini pipeline. FAU All of Us Hackathon Winner. | XGBoost, SHAP, Gemini, FastAPI, Next.js, BigQuery |
+| [DARWIN-PHOENIX](https://github.com/sakethyalamanchili/DARWIN-PHOENIX) | Co-evolutionary LLM framework where a generator and adversary compete to produce better code. Introduced behavioral fingerprinting via TF-IDF cosine drift as a degradation signal. 656 runs, 4 conditions. arXiv preprint. | LangGraph, Qwen3-32B, HumanEval+, Python, Docker |
+| [CareGuide](https://github.com/sakethyalamanchili/Health-Scribe) | Deterministic 5-agent pipeline that de-identifies EHR records, grounds care plans via RAG on USPSTF guidelines, and generates a gamified Health Engagement Score. | LangGraph, RAG, ChromaDB, Gemini, Streamlit |
+| [OURI Assistant](https://github.com/sakethyalamanchili/OURI_Assistant) | Gemini-powered Next.js app connecting FAU undergraduates with faculty research opportunities. Built for and deployed at FAU. | Gemini, Next.js, Vercel |
+| [Stochastic Cliff Walking](https://github.com/sakethyalamanchili/stochastic-cliff-walking) | Benchmarks SARSA, Q-Learning, and Double Q-Learning under stochastic wind and slip dynamics with theoretical ground truth via Model-Based Value Iteration. | Python, OpenAI Gym |
 
----
+## Stack
 
-## Featured Projects
+`Python` `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `XGBoost` `HuggingFace` `SAPBERT` `LoRA/PEFT`
+`LangChain` `LangGraph` `DSPy` `RAG` `ChromaDB` `Gemini API` `OpenAI API`
+`FastAPI` `Docker` `GCP` `Next.js` `React` `Streamlit` `SQL` `Power BI`
 
-| Project | What It Does | Stack | Impact |
-|---|---|---|---|
-| [**MOSAIC**](https://github.com/sakethyalamanchili) | Cardiovascular risk prediction platform with fairness-aware ML | XGBoost · Gemini · Next.js | 551K patients · **74% reduction** in Black–White AUC gap |
-| [**Health-Scribe**](https://github.com/sakethyalamanchili/Health-Scribe) | 9-agent RAG pipeline unifying fragmented health records into a single Health Engagement Score | Python · LLMs · RAG | Multi-agent orchestration |
-| [**CareGuide**](https://github.com/sakethyalamanchili) | Autonomous healthcare navigation agent | RAG · LLMs · Streamlit | FAU Agentic AI Hackathon |
-| [**Stochastic Cliff Walking**](https://github.com/sakethyalamanchili/stochastic-cliff-walking) | Benchmarks RL agents in high-variance environments — proving SARSA beats Q-Learning when failure is catastrophic | Python · OpenAI Gym | Research-grade RL study |
-| [**CKD Risk Prediction**](https://github.com/sakethyalamanchili/CKD-Risk-Prediction) | Chronic kidney disease risk classification | TypeScript · ML | Clinical decision support |
-| [**SnapAR Portfolio**](https://github.com/sakethyalamanchili) | Augmented Reality lens experiences | Lens Studio | **180B+ views** · Lensathon Winner |
-
----
-
-## Tech Stack
-
-**AI & Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189FAD?style=flat-square&logo=xgboost&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Engineering & Web**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-**Creative & Visualization**
-
-![Lens Studio](https://img.shields.io/badge/Lens_Studio-FFFC00?style=flat-square&logo=snapchat&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Adobe Suite](https://img.shields.io/badge/Adobe_Suite-FF0000?style=flat-square&logo=adobe&logoColor=white)
-
----
-
-## GitHub Stats
+## Stats
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=sakethyalamanchili&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" height="150"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethyalamanchili&layout=compact&hide_border=true&theme=default" height="150"/>
-
-</div>
-
----
-
-## Recent Writing
-
-I write about AI systems, ML research, and lessons from building at scale on [Medium →](https://medium.com/@sakethyalamanchili)
-
----
-
-## Let's Connect
-
-I'm always open to research collaborations, AI/ML projects, and conversations about health equity in machine learning.
-
-📬 [sakethyalamanchili@outlook.com](mailto:sakethyalamanchili@outlook.com) &nbsp;|&nbsp; 🌐 [sakethyalamanchili.vercel.app](https://sakethyalamanchili.vercel.app/)
-
----
-
-<div align="center">
-<sub>⭐ If any of my projects helped you, consider starring the repo — it helps others find the work.</sub>
 </div>
