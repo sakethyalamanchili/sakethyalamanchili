@@ -32,11 +32,3 @@ Open to full-time AI/ML Engineering and Data Science roles starting early 2027.
 `Python` `PyTorch` `TensorFlow` `Keras` `Scikit-learn` `XGBoost` `HuggingFace` `SAPBERT` `LoRA/PEFT`
 `LangChain` `LangGraph` `DSPy` `RAG` `ChromaDB` `Gemini API` `OpenAI API`
 `FastAPI` `Docker` `GCP` `Next.js` `React` `Streamlit` `SQL` `Power BI`
-
-## Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sakethyalamanchili&show_icons=true&hide_border=true&theme=default&hide_title=true&count_private=true" height="150"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakethyalamanchili&layout=compact&hide_border=true&theme=default" height="150"/>
-</div>
